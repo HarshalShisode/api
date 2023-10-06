@@ -122,11 +122,3 @@ If an error occurs, the API will return an error response in the following forma
 ## Contributing
 
 If you would like to contribute to this project, please open an issue or create a pull request. We welcome contributions and feedback.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README.md to provide more specific information about your project and any additional features or usage guidelines.
